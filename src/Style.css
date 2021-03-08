@@ -1,0 +1,19 @@
+/* h1{
+    color: red;
+} */
+.da-section {
+    padding: 100px 0;
+}
+.text-font{
+    color: #26b7a0
+}
+
+
+/*Team Carousel Style*/
+.da-team .carousel-indicators {
+    bottom: 0px; }
+    .da-team .carousel-indicators li {
+      background-color: #3d3f4c; }
+    .da-team .carousel-indicators .active {
+      background-color: #26b7a0; }
+  
